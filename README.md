@@ -16,7 +16,7 @@ Determine the average electric range of EVs in the dataset to assess technologic
 # Charts & Visualization Requirements
 ## Total Vehicles by Model Year (from 2010 onwards)
 **Chart Type:** Line/Area Chart
-**Purpose:** Shows distribution of EVs over the years to analyze growth trends and adoption.
+**Purpose:** Shows the distribution of EVs over the years to analyze growth trends and adoption.
 ![image](https://github.com/user-attachments/assets/74c7cf13-0a5f-4f07-928a-7ee4c8d6b093)
 ## Total Vehicles by State
 **Chart Type:** Map Chart
