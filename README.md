@@ -52,6 +52,10 @@ Determine the average electric range of EVs in the dataset to assess technologic
 
 **Final Dashboard:** ![image](https://github.com/user-attachments/assets/072af0af-957c-4273-a6e2-f372bedcec31)
 
+# Tools Used
+## Tableau Desktop
+## Excel/ CSV files: https://drive.google.com/file/d/11dI_p4LrT8Wh2gp_-EsW7oVr5ymlIftc/view?usp=sharing 
+
 # Key Insights
 1. BEVs are gradually surpassing PHEVs in market share.
 2. EV adoption has increased significantly since 2010.
