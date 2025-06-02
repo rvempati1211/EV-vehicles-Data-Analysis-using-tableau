@@ -21,27 +21,32 @@ Determine the average electric range of EVs in the dataset to assess technologic
 
 # Charts & Visualization Requirements
 ## Total Vehicles by Model Year (from 2010 onwards)
-**Chart Type:** Line/Area Chart,
+**Chart Type:** Line/Area Chart
+
 **Purpose:** Shows the distribution of EVs over the years to analyze growth trends and adoption.
 ![image](https://github.com/user-attachments/assets/74c7cf13-0a5f-4f07-928a-7ee4c8d6b093)
 
 ## Total Vehicles by State
-**Chart Type:** Map Chart,
+**Chart Type:** Map Chart
+
 **Purpose:** Displays geographic distribution and highlights high-adoption regions.
 ![image](https://github.com/user-attachments/assets/c3f06fd0-87dd-4421-8dce-7b885eee675d)
 
 ## Top 10 Total Vehicles by Make
-**Chart Type:** Bar Chart,
+**Chart Type:** Bar Chart
+
 **Purpose:** Ranks top EV manufacturers by total vehicles, showing brand dominance.
 ![image](https://github.com/user-attachments/assets/b9f3ed4e-5f19-4d4b-a33c-a944a3973c35)
 
 ## Total Vehicles by CAFV Eligibility
-**Chart Type:** Pie/Donut Chart,
-**Purpose:** Breaks down EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, useful for policy impact studies.
+**Chart Type:** Pie/Donut Chart
+
+**Purpose:** Breaks down EVs eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, useful for policy impact studies.,
 ![image](https://github.com/user-attachments/assets/b51cc252-756c-4e14-addc-73d296ea8fb0)
 
 ## Total Vehicles by Model
-**Chart Type:** Grid View,
+**Chart Type:** Grid View
+
 **Purpose:** Displays top 10 EV models, helping analyze consumer preferences.
 ![image](https://github.com/user-attachments/assets/9018b664-7b45-464b-980c-fea9cd8f15f7)
 
